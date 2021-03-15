@@ -11,7 +11,7 @@ Basta clonar o repositório:
 git clone git@github.com:tryber/sd-011-live-lecture.git
 ```
 
-Em seguida acessar a branch do Pull Request da aula seguindo o padrão de nomeclatura das branchs (lecture/nome-da-aula)
+Em seguida acessar a branch do Pull Request da aula seguindo o padrão de nomeclatura das branchs (lecture/nome-da-aula).
 
 Exemplo:
 
