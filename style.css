@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+}
+
 body {
   font-family: Montserrat, sans-serif;
 }
@@ -8,6 +12,7 @@ p, li {
 
 .trybe-title {
   color: #0a7e51;
+  margin-bottom: 50px;
 }
 
 .hero-title {
@@ -38,4 +43,16 @@ p, li {
   border-radius: 4px;
   font-weight: 700;
   text-decoration: none;
+}
+
+.header {
+  background-image: url("images/smiling-image.jpg");
+  background-size: cover;
+  background-position: 50% 25%;
+  padding: 60px 30px 40px;
+}
+
+.header-content {
+  max-width: 660px;
+  margin-left: 100px;
 }
