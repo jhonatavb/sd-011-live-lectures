@@ -1,0 +1,41 @@
+body {
+  font-family: Montserrat, sans-serif;
+}
+
+p, li {
+  color: #475550;
+}
+
+.trybe-title {
+  color: #0a7e51;
+}
+
+.hero-title {
+  line-height: 55px;
+  letter-spacing: -1px;
+  font-size: 45px;
+}
+
+.section-title {
+  line-height: 42px;
+  font-size: 28px;
+}
+
+.testimonial-name {
+  line-height: 20px;
+  font-size: 14px;
+  color: #11a36a;
+}
+
+.circled {
+  border-radius: 100%;
+}
+
+.button {
+  background-color: #11a36a;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 4px;
+  font-weight: 700;
+  text-decoration: none;
+}
