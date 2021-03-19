@@ -56,3 +56,27 @@ p, li {
   max-width: 660px;
   margin-left: 100px;
 }
+
+.stronger {
+  font-weight: 600;
+}
+
+.market {
+  text-align: center;
+  padding: 6em 30px;
+}
+
+.student-testimonial-wrapper {
+  padding: 30px 30px 30px;
+}
+
+.student-container {
+  width: 30%;
+  display: inline-block;
+  margin: 0 10px;
+  text-align: center;
+}
+
+div.student-container img {
+  margin-bottom: 20px;
+}
