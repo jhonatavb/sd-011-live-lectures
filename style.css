@@ -80,3 +80,21 @@ p, li {
 div.student-container img {
   margin-bottom: 20px;
 }
+
+.learning {
+  background-color: #f5f5f5;
+  padding: 6em 30px;
+  min-height: 350px;
+}
+
+.learning-left-div {
+  float: left;
+}
+
+.learning-right-div {
+  float: right;
+}
+
+.button {
+  margin-top: 350px;
+}
